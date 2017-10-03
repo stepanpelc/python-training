@@ -7,9 +7,9 @@
 ## Zadání
 
 1. Na začátek souboru vlož komentář popisující obsah.
-* Definuj proměnnou a vlož do ní libovolné celé číslo
-* Zjisti typ proměnné z předchozího úkolu
-* K číslu přičti libovolné číslo a výsledek ulož do samostatné proměnné
-* Zjisti typ proměnné z předchozího úkolu
-* Změň typ proměnné, pokud se jedná o typ `int` tak ji změň na `float` a opačně
-* Definuj proměnnou s hodnotou `None`
+2. Definuj proměnnou a vlož do ní libovolné celé číslo
+3. Zjisti typ proměnné z předchozího úkolu
+4. K číslu přičti libovolné číslo a výsledek ulož do samostatné proměnné
+5. Zjisti typ proměnné z předchozího úkolu
+6. Změň typ proměnné, pokud se jedná o typ `int` tak ji změň na `float` a opačně
+7. Definuj proměnnou s hodnotou `None`
